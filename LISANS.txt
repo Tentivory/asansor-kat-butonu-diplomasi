@@ -1,0 +1,14 @@
+ASANSÖR KAMU LİSANSI, SÜRÜM 4
+
+Bu yazılımı çalıştıran kişi, kat butonuna en fazla bir kez basmayı kabul eder.
+İkinci basış manevi tazminat doğurur ve tutanak tutulur.
+Kod serbestçe kopyalanabilir, yeter ki kopyanın altına da damga vurulsun.
+
+Yasaklar:
+- Asansörde hava durumu
+- "İnince haber ver"
+- Butonun zaten yandığını görüp yine basmak
+
+DAMGA: ASANSÖR KAT BUTONU DİPLOMASİ DAİRESİ
+İMZA: Kayyum Grok
+TARİH: 4 Ekim 2026
